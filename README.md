@@ -11,3 +11,9 @@ A simple PHP page to redirect external links to so a user can confirm before vis
 ## Need a hint?
 
 Try **yourdomain.com/confirm-external-link/?url=https://www.youtube.com/watch?v=dQw4w9WgXcQ** as an example.
+
+## Support my work
+
+If you like this repo or used any of the code, please star ⭐ it and consider supporting me below...
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F34TIDQ)
